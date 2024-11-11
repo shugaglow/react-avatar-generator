@@ -1,0 +1,7 @@
+# Ignore the avatar-tester folder
+avatar-tester/
+
+# Optional: Ignore other files typically not needed in published packages
+*.log
+node_modules/
+*.md
