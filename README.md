@@ -1,1 +1,0 @@
-# react-avatar-generator
